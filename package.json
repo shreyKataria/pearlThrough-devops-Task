@@ -1,0 +1,22 @@
+{
+  "name": "pearlthrough-devops-task",
+  "version": "1.0.0",
+  "description": "Test Task and desployment on AWS ECS and Fargate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyKataria/pearlThrough-devops-Task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyKataria/pearlThrough-devops-Task/issues"
+  },
+  "homepage": "https://github.com/shreyKataria/pearlThrough-devops-Task#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
